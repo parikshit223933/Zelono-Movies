@@ -64,7 +64,6 @@ export function handleMovieSearch(movie)
             .then(response => response.json())
             .then(movie =>
             {
-                console.log('Movie: ', movie);
                 //dispatch an action
                 //{type:ADD_SEARCH_RESULT, movie}
                 dispatch(addMovieSearchResult(movie));
