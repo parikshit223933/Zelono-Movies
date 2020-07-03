@@ -1,3 +1,16 @@
+# Zelono Movies
+A basic React and Redux base app to list movies and add them to favourites.
+
+## Screenshots
+<img src="https://github.com/parikshit223933/Zelono-Movies/blob/master/src/1.PNG" width=500><img src="https://github.com/parikshit223933/Zelono-Movies/blob/master/src/2.PNG" width=500><img src="https://github.com/parikshit223933/Zelono-Movies/blob/master/src/3.PNG" width=500><img src="https://github.com/parikshit223933/Zelono-Movies/blob/master/src/4.PNG" width=500>
+
+## Features
+1. Add a particular movie to Favourites
+2. search for new movies (OMDB API USED)
+3. Add movies from search results to movies list.
+
+Database is not used in this project. Data will be lost on refreshing the page.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
