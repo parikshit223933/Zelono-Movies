@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Zelono-Movies/precache-manifest.55b0ccd54d575af85c1d0c699fb5a9db.js"
+  "/Zelono-Movies/precache-manifest.9483c2078b7ab5617c3f27061728a159.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "75787bd4c89df2ed206dbd0e4c003120",
+    "revision": "438484936ce83bb8d64284f7543df6d1",
     "url": "/Zelono-Movies/index.html"
   },
   {
-    "revision": "18e9c2561a09ca49e4aa",
+    "revision": "f4aa7665ce98bce40af4",
     "url": "/Zelono-Movies/static/css/main.2e5ac4c4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Zelono-Movies/static/js/2.3b505510.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "18e9c2561a09ca49e4aa",
-    "url": "/Zelono-Movies/static/js/main.9a82eca4.chunk.js"
+    "revision": "f4aa7665ce98bce40af4",
+    "url": "/Zelono-Movies/static/js/main.9f46abae.chunk.js"
   },
   {
     "revision": "07b46901171c02a8ad52",
