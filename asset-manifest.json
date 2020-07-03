@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Zelono-Movies/static/css/main.2e5ac4c4.chunk.css",
+    "main.js": "/Zelono-Movies/static/js/main.9a82eca4.chunk.js",
+    "main.js.map": "/Zelono-Movies/static/js/main.9a82eca4.chunk.js.map",
+    "runtime-main.js": "/Zelono-Movies/static/js/runtime-main.1da2adbc.js",
+    "runtime-main.js.map": "/Zelono-Movies/static/js/runtime-main.1da2adbc.js.map",
+    "static/js/2.3b505510.chunk.js": "/Zelono-Movies/static/js/2.3b505510.chunk.js",
+    "static/js/2.3b505510.chunk.js.map": "/Zelono-Movies/static/js/2.3b505510.chunk.js.map",
+    "index.html": "/Zelono-Movies/index.html",
+    "precache-manifest.55b0ccd54d575af85c1d0c699fb5a9db.js": "/Zelono-Movies/precache-manifest.55b0ccd54d575af85c1d0c699fb5a9db.js",
+    "service-worker.js": "/Zelono-Movies/service-worker.js",
+    "static/css/main.2e5ac4c4.chunk.css.map": "/Zelono-Movies/static/css/main.2e5ac4c4.chunk.css.map",
+    "static/js/2.3b505510.chunk.js.LICENSE.txt": "/Zelono-Movies/static/js/2.3b505510.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1da2adbc.js",
+    "static/js/2.3b505510.chunk.js",
+    "static/css/main.2e5ac4c4.chunk.css",
+    "static/js/main.9a82eca4.chunk.js"
+  ]
+}
